@@ -1,3 +1,6 @@
+Hierarchy of Appliances
+
+
 This is a java project that models household appliances using Object-Oriented Programming principles.
 It implements a linked list structure to manage appliance objects and includes a GUI to display them.
 
