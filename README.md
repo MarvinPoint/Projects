@@ -1,1 +1,1 @@
-Projects done for school
+Projects done
